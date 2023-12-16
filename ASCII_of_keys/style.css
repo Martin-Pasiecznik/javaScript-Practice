@@ -1,0 +1,19 @@
+body{
+    background-color: #363062;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+    font-size: 50px;
+}
+
+.ascii-value{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    color: white;
+    font-size: 150px;
+}
